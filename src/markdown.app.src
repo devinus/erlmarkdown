@@ -1,3 +1,4 @@
 {application, markdown,
- [{description, "An implementation of markdown written in Erlang"},
+ [{vsn, "0.1"},
+  {description, "An implementation of markdown written in Erlang"},
   {applications, [kernel, stdlib]}]}.
